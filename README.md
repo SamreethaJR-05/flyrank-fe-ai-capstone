@@ -1,16 +1,18 @@
-# Frontend AI Engineering Capstone
+## Project
 
-This repository contains my work for the FlyRank Frontend AI Engineering track.
+This repository will contain my capstone work for the FlyRank Frontend AI Engineering track.
 
-## Objectives
-- Learn AI-assisted development workflows
-- Build modern frontend applications
-- Practice using Cursor AI in development
-- Follow professional Git and GitHub practices
+The goal is to build AI-assisted frontend applications and explore modern development workflows using Cursor and contemporary web technologies.
 
-## Tools
-- Cursor
-- Git & GitHub
+Planned focus areas:
+- AI-assisted frontend development
+- Modern UI implementation
+- Git and collaborative workflows
+- Production-ready engineering practices
+
+## Tech Stack
+- React
 - Node.js
 - JavaScript
-- React
+- Cursor AI
+- Git & GitHub
